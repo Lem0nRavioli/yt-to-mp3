@@ -1,0 +1,6 @@
+PyQt5==5.15.2
+PyQt5-sip==12.8.1
+PySide2==5.15.2
+pytube==10.1.0
+shiboken2==5.15.2
+typing-extensions==3.7.4.3
